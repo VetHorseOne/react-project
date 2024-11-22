@@ -1,6 +1,6 @@
 # react-project
 
-# Para funcionar
+## Para funcionar
 
 1 - Abrir terminal, entrar na pasta client e dar o comando npm i;<br>
 2 - Abrir outro terminal, entrar na pasta server e dar o comando npm i;<br>
